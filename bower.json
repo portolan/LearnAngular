@@ -1,0 +1,21 @@
+{
+  "name": "curso-angularjs-fafiman",
+  "version": "0.0.1",
+  "homepage": "https://github.com/guiseek/curso-angularjs-fafiman",
+  "authors": [
+    "Guilherme Siquinelli <guiseek@gmail.com>"
+  ],
+  "description": "Curso de AngularJS na Fafiman em Mandaguari",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.5.6",
+    "bootstrap": "~3.3.6"
+  }
+}
